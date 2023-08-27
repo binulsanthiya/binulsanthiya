@@ -18,7 +18,7 @@
 
 ### Languages  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=java,c,matlabmysql&perline=6" alt="Languages" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=java,c,matlab,mysql&perline=6" alt="Languages" />
 </div>
 </td><td valign="top" width="33%">
 
@@ -30,7 +30,7 @@
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscodegit,postman&perline=6" alt="Tools" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,git,postman&perline=6" alt="Tools" />
 </div>
 
 </td></tr></table>  <br/> 
