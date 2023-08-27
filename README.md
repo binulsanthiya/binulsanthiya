@@ -18,7 +18,7 @@
 
 ### Languages  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=java,c,matlab,mysql&perline=6" alt="Languages" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=java,c,matlab,MySQL,MongoDB&perline=6" alt="Languages" />
 </div>
 </td><td valign="top" width="33%">
 
