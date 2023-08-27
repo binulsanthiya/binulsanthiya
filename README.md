@@ -7,7 +7,7 @@
 
 ## <div align="center"><h1>I'm Binul Santhiya<img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="50"></h1>
 </div> 
-<div><p style="font-family: Raleway; font-size: 50px; font-weight: 500;">I'm an undergraduate at <a href="https://www.sjp.ac.lk/">University of Sri Jayewardenepura</a> studying Maths,Applied maths and Computer Science. I'm passionate about learning Computer Programming and software engineering</p></div>
+<div><p style="font-family: Raleway; font-size: 50px; font-weight: 500;">I'm an undergraduate at <a href="https://www.sjp.ac.lk/">University of Sri Jayewardenepura</a> studying Maths,Applied maths and Computer Science. I'm passionate about learning Computer Programming and software engineering.</p></div>
 
 <div align="center">
 <img src="./GradientLine.gif" align="center" style="width: 100%" />
